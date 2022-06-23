@@ -3,6 +3,7 @@
 - 👀 I’m interested in Rust, and random stuff, anime and so on
 - 🌱 I’m currently learning Rust and forever will be <3
 - 📚 I'm also a student, taking my [HTX](https://en.wikipedia.org/wiki/Higher_Technical_Examination_Programme)
+- ✏️ My favourite colour is Watermelon (#FC4C54)although i also love Midnight (#030C2C)
 
 <!---
 S3bTheGuy/S3bTheGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
