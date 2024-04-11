@@ -1,5 +1,8 @@
 # Hi, I'm Sebastian!:
 
+- 🌱 I’m learning Rust and forever will be <3
+- 📚 I'm also a student, taking my [HTX]
+
 ```rs
 struct Developer {
     name: &'static str,
