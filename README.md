@@ -16,8 +16,8 @@ struct Developer {
 fn main() {
     let sebby = Developer {
         name: "Sebastian",
-        pronouns: "he/him",
-        code: vec!["Rust", "Typescript", "HTML", "CSS", "Python"],
+        pronouns: "He/Him",
+        code: vec!["Rust", "C#", "Python", "Typescript", "HTML", "CSS"],
         tools: vec!["Tauri", "SolidJS", "Node", "Bun", "Tailwindcss"],
     };
 }
