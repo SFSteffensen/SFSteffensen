@@ -4,7 +4,7 @@
 - 📚 I'm also a student, taking my [HTX]
 
 
-[![Linkedin: sfsteffensen](https://img.shields.io/badge/-sfsteffensen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfsteffensen/)](https://www.linkedin.com/in/sfsteffensen/)
+[![Linkedin: sfsteffensen](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfsteffensen/)](https://www.linkedin.com/in/sfsteffensen/)
 [![GitHub S3bTheGuy](https://img.shields.io/github/followers/S3bTheGuy?label=follow&style=social)](https://github.com/S3bTheGuy)
 ```rs
 struct Developer {
