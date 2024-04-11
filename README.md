@@ -1,4 +1,4 @@
-# Me♡:
+# Hi, I'm Sebastian!:
 
 ```rs
 struct Developer {
@@ -9,7 +9,7 @@ struct Developer {
 }
 
 fn main() {
-    let sebastian = Developer {
+    let sebby = Developer {
         name: "Sebastian",
         pronouns: "he/him",
         code: vec!["Rust", "Typescript", "HTML", "CSS", "Python"],
