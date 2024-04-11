@@ -1,4 +1,4 @@
-# Hi, I'm Sebastian!<img src="https://gifdb.com/images/high/cute-wave-small-fox-06runm73dcrrg9ea.gif" width="100"></h2>
+# Hi, I'm Sebastian!<img src="https://gifdb.com/images/high/cute-wave-small-fox-06runm73dcrrg9ea.gif" width="80"></h2>
 
 - 🌱 I’m learning Rust and forever will be <3
 - 📚 I'm also a student, taking my [HTX](https://en.wikipedia.org/wiki/Higher_Technical_Examination_Programme)
