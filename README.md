@@ -3,7 +3,7 @@
 [![GitHub S3bTheGuy](https://img.shields.io/github/followers/SFSteffensen?label=follow&style=social)](https://github.com/SFSteffensen)
 
 - 🌱 I’m learning Rust and forever will be <3
-- 📚 Graduated Zealand Business College, taking an [HTX](https://en.wikipedia.org/wiki/Higher_Technical_Examination_Programme)
+- 📚 Pursuing a Bachelor of Science in Software Technology [@DTU](https://www.dtu.dk/english/)
 
 ```rs
 struct Developer {
